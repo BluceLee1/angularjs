@@ -1,5 +1,6 @@
 function HelloAngular($scope) {
     $scope.greeting = {
-        text: 'Hello'
+        text: 'Hello',
+        name: 'li'
     };
 }
